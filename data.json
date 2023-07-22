@@ -1,0 +1,53 @@
+[
+    {
+        "provincia": "Cuenca",
+        "productos": [
+            {
+                "nombre": "Taladro eléctrico",
+                "descripcion": "Herramienta esencial para perforar hoyos en distintos tipos de superficies.",
+                "valor": 85.00,
+                "vendidos": 5000
+            },
+            {
+                "nombre": "Sierra circular eléctrica",
+                "descripcion": "Ideal para cortar madera de manera rápida y precisa.",
+                "valor": 120.00,
+                "vendidos": 2000
+            }
+        ]
+    },
+    {
+        "provincia": "Guayaquil",
+        "productos": [
+            {
+                "nombre": "Lijadora eléctrica",
+                "descripcion": "Herramienta indispensable para alisar superficies y prepararlas para el acabado.",
+                "valor": 70.00,
+                "vendidos": 3200
+            },
+            {
+                "nombre": "Amoladora angular",
+                "descripcion": "Perfecta para cortar, desbarbar y pulir metales.",
+                "valor": 65.00,
+                "vendidos": 1500
+            }
+        ]
+    },
+    {
+        "provincia": "Quito",
+        "productos": [
+            {
+                "nombre": "Cortadora de azulejos eléctrica",
+                "descripcion": "Ideal para cortes precisos y sin esfuerzo en azulejos y baldosas cerámicas.",
+                "valor": 110.00,
+                "vendidos": 1700
+            },
+            {
+                "nombre": "Martillo perforador",
+                "descripcion": "Herramienta versátil que puede realizar tareas de perforación y demolición. Es ideal para trabajos en concreto y mampostería.",
+                "valor": 150.00,
+                "vendidos": 2000
+            }
+        ]
+    }
+]
